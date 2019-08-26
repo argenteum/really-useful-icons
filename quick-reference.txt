@@ -1,0 +1,203 @@
+Title			Class			CSS	HTML		Font set	Since
+---------------------------------------------------------------------------------------------
+asterisk		ru-asterisk		\e000	&#xe000		font awesome	v1.0
+arrow-up		ru-arrow-up		\e001	&#xe001		ionicons	v1.0
+arrow-right		ru-arrow-right		\e002	&#xe002		ionicons	v1.0
+arrow-down		ru-arrow-down		\e003	&#xe003		ionicons	v1.0
+arrow-left		ru-arrow-left		\e004	&#xe004		ionicons	v1.0
+chevron-up		ru-chevron-up		\e005	&#xe005		font awesome	v1.0
+chevron-right		ru-chevron-right	\e006	&#xe006		font awesome	v1.0
+chevron-down		ru-chevron-down		\e007	&#xe007		font awesome	v1.0
+chevron-left		ru-chevron-left		\e008	&#xe008		font awesome	v1.0
+chevron-up-thin		ru-chevron-up-thin	\e009	&#xe009		elegant		v1.0
+chevron-right-thin	ru-chevron-right-thin	\e00a	&#xe00a		elegant		v1.0
+chevron-down-thin	ru-chevron-down-thin	\e00b	&#xe00b		elegant		v1.0
+chevron-left-thin	ru-chevron-left-thin	\e00c	&#xe00c		elegant		v1.0
+checkbox		ru-checkbox		\e00d	&#xe00d		elegant		v1.0
+checkbox-selected	ru-checkbox-selected	\e00e	&#xe00e		elegant		v1.0
+checkbox-ticked		ru-chevron-ticked	\e00f	&#xe00f		elegant		v1.0
+tick			ru-tick			\e010	&#xe010		elegant		v1.0
+times			ru-times		\e011	&#xe011		clarity		v1.0
+radio			ru-radio		\e012	&#xe012		elegant		v1.0
+radio-selected		ru-radio-selected	\e013	&#xe013		elegant		v1.0
+toggle			ru-toggle		\e014	&#xe014		font awesome	v1.0
+toggle-filled		ru-toggle-filled	\e015	&#xe015		font awesome	v1.0
+plus			ru-plus			\e016	&#xe016		elegant		v1.0
+plus-circle		ru-plus-circle		\e017	&#xe017		elegant		v1.0
+minus			ru-minus		\e018	&#xe018		elegant		v1.0
+minus-circle		ru-minus-circle		\e019	&#xe019		elegant		v1.0
+prohibited		ru-prohibited		\e01a	&#xe01a		font awesome	v1.0
+user			ru-user			\e01b	&#xe01b		font awesome	v1.0
+user-group		ru-user-group		\e01c	&#xe01c		font awesome	v1.0
+home			ru-home			\e01d	&#xe01d		elegant		v1.0
+link			ru-link			\e01e	&#xe01e		clarity		v1.0
+pop-out			ru-pop-out		\e01f	&#xe01f		clarity		v1.0
+login			ru-login		\e020	&#xe020		font awesome	v1.0
+logout			ru-logout		\e021	&#xe021		font awesome	v1.0
+padlock-closed		ru-padlock-closed	\e022	&#xe022		elegant		v1.0
+padlock-open		ru-padlock-open		\e023	&#xe023		elegant		v1.0
+hamburger		ru-hamburger		\e024	&#xe024		font awesome	v1.0
+search			ru-search		\e025	&#xe025		elegant		v1.0
+delete			ru-delete		\e026	&#xe026		elegant		v1.0
+wrench			ru-wrench		\e027	&#xe027		clarity		v1.0
+cogs			ru-cogs			\e028	&#xe028		elegant		v1.0
+life-buoy		ru-life-buoy		\e029	&#xe029		font awesome	v1.0
+bug			ru-bug			\e02a	&#xe02a		ionicons	v1.0
+apps			ru-apps			\e02b	&#xe02b		ionicons	v1.0
+attach			ru-attach		\e02c	&#xe02c		ionicons	v1.0
+bookmark		ru-bookmark		\e02d	&#xe02d		elegant		v1.0
+download		ru-download		\e02e	&#xe02e		clarity		v1.0
+upload			ru-upload		\e02f	&#xe02f		clarity		v1.0
+cloud-download		ru-cloud-download	\e030	&#xe030		elegant		v1.0
+cloud-upload		ru-cloud-upload		\e031	&#xe031		elegant		v1.0
+html5			ru-html5		\e032	&#xe032		font awesome	v1.0
+qr-code			ru-qr-code		\e033	&#xe033		icomoon		v1.0
+terminal		ru-terminal		\e034	&#xe034		font awesome	v1.0
+devices			ru-devices		\e035	&#xe035		clarity		v1.0
+phone			ru-phone		\e036	&#xe036		clarity		v1.0
+envelope		ru-envelope		\e037	&#xe037		elegant		v1.0
+send			ru-send			\e038	&#xe038		font awesome	v1.0
+reply			ru-reply		\e039	&#xe039		elegant		v1.0
+comment			ru-comment		\e03a	&#xe03a		font awesome	v1.0
+chat			ru-chat			\e03b	&#xe03b		font awesome	v1.0
+quotes-left		ru-quotes-left		\e03c	&#xe03c		icomoon		v1.0
+quotes-right		ru-quotes-right		\e03d	&#xe03d		icomoon		v1.0
+edit			ru-edit			\e03e	&#xe03e		clarity		v1.0
+calendar		ru-calendar		\e03f	&#xe03f		elegant		v1.0
+clock			ru-clock		\e040	&#xe040		elegant		v1.0
+watch			ru-watch		\e041	&#xe041		ionicons	v1.0
+tag			ru-tag			\e042	&#xe042		clarity		v1.0
+tags			ru-tags			\e043	&#xe043		clarity		v1.0
+eye-visible		ru-eye-visible		\e044	&#xe044		icomoon		v1.0
+eye-hidden		ru-eye-hidden		\e045	&#xe045		icomoon		v1.0
+folder			ru-folder		\e046	&#xe046		elegant		v1.0
+page			ru-page			\e047	&#xe047		elegant		v1.0
+pages			ru-pages		\e048	&#xe048		elegant		v1.0
+file			ru-file			\e049	&#xe049		font awesome	v1.0
+file-image		ru-file-image		\e04a	&#xe04a		font awesome	v1.0
+file-video		ru-file-video		\e04b	&#xe04b		font awesome	v1.0
+file-audio		ru-file-audio		\e04c	&#xe04c		font awesome	v1.0
+file-pdf		ru-file-pdf		\e04d	&#xe04d		font awesome	v1.0
+file-text		ru-file-text		\e04e	&#xe04e		font awesome	v1.0
+file-word		ru-file-word		\e04f	&#xe04f		font awesome	v1.0
+file-excel		ru-file-excel		\e050	&#xe050		font awesome	v1.0
+file-powerpoint		ru-file-powerpoint	\e051	&#xe051		font awesome	v1.0
+file-code		ru-file-code		\e052	&#xe052		font awesome	v1.0
+file-zip		ru-file-zip		\e053	&#xe053		font awesome	v1.0
+image			ru-image		\e054	&#xe054		elegant		v1.0
+film			ru-film			\e055	&#xe055		elegant		v1.0
+audio			ru-audio		\e056	&#xe056		font awesome	v1.0
+music			ru-music		\e057	&#xe057		elegant		v1.0
+headphones		ru-headphones		\e058	&#xe058		icomoon		v1.0
+info			ru-info			\e059	&#xe059		elegant		v1.0
+help			ru-help			\e05a	&#xe05a		elegant		v1.0
+alert			ru-alert		\e05b	&#xe05b		elegant		v1.0
+warning			ru-warning		\e05c	&#xe05c		elegant		v1.0
+alarm			ru-alarm		\e05d	&#xe05d		font awesome	v1.0
+map			ru-map			\e05e	&#xe05e		elegant		v1.0
+pin			ru-pin			\e05f	&#xe05f		elegant		v1.0
+placemarker		ru-placemarker		\e060	&#xe060		elegant		v1.0
+cart			ru-cart			\e061	&#xe061		elegant		v1.0
+shopping-bag		ru-shopping-bag		\e062	&#xe062		font awesome	v1.0
+wallet			ru-wallet		\e063	&#xe063		elegant		v1.0
+credit-card		ru-credit-card		\e064	&#xe064		elegant		v1.0
+paypal			ru-paypal		\e065	&#xe065		font awesome	v1.0
+barcode			ru-barcode		\e066	&#xe066		font awesome	v1.0
+thumbs-up		ru-thumbs-up		\e067	&#xe067		elegant		v1.0
+thumbs-down		ru-thumbs-down		\e068	&#xe068		elegant		v1.0
+happy-face		ru-happy-face		\e069	&#xe069		font awesome	v1.0
+neutral-face		ru-neutral-face		\e06a	&#xe06a		font awesome	v1.0
+sad-face		ru-sad-face		\e06b	&#xe06b		font awesome	v1.0
+star			ru-star			\e06c	&#xe06c		font awesome	v1.0
+star-outline		ru-star-outline		\e06d	&#xe06d		font awesome	v1.0
+heart			ru-heart		\e06e	&#xe06e		font awesome	v1.0
+heart-outline		ru-heart-outline	\e06f	&#xe06f		font awesome	v1.0
+hand			ru-hand			\e070	&#xe070		ionicons	v1.0
+baby			ru-baby			\e071	&#xe071		font awesome	v1.0
+child			ru-child		\e072	&#xe072		font awesome	v1.0
+disabled		ru-disabled		\e073	&#xe073		font awesome	v1.0
+deaf			ru-deaf			\e074	&#xe074		font awesome	v1.0
+low-vision		ru-low-vision		\e075	&#xe075		font awesome	v1.0
+blind			ru-blind		\e076	&#xe076		font awesome	v1.0
+spectacles		ru-spectacles		\e077	&#xe077		font awesome	v1.0
+bed			ru-bed			\e078	&#xe078		font awesome	v1.0
+bath			ru-bath			\e079	&#xe079		font awesome	v1.0
+chair			ru-chair		\e07a	&#xe07a		font awesome	v1.0
+swimming		ru-swimming		\e07b	&#xe07b		font awesome	v1.0
+pool			ru-pool			\e07c	&#xe07c		font awesome	v1.0
+water			ru-water		\e07d	&#xe07d		font awesome	v1.0
+beach-umbrella		ru-beach-umbrella	\e07e	&#xe07e		font awesome	v1.0
+hiking			ru-hiking		\e07f	&#xe07f		font awesome	v1.0
+running			ru-running		\e080	&#xe080		font awesome	v1.0
+ball			ru-ball			\e081	&#xe081		font awesome	v1.0
+bicycle			ru-bicycle		\e082	&#xe082		font awesome	v1.0
+bus			ru-bus			\e083	&#xe083		font awesome	v1.0
+parking			ru-parking		\e084	&#xe084		font awesome	v1.0
+car			ru-car			\e085	&#xe085		font awesome	v1.0
+plane			ru-plane		\e086	&#xe086		font awesome	v1.0
+luggage			ru-luggage		\e087	&#xe087		font awesome	v1.0
+coffee-cup		ru-coffee-cup		\e088	&#xe088		font awesome	v1.0
+knife-fork		ru-knife-fork		\e089	&#xe089		font awesome	v1.0
+wine-glass		ru-wine-glass		\e08a	&#xe08a		font awesome	v1.0
+wine-toast		ru-wine-toast		\e08b	&#xe08b		font awesome	v1.0
+birthday-cake		ru-birthday-cake	\e08c	&#xe08c		font awesome	v1.0
+cat			ru-cat			\e08d	&#xe08d		font awesome	v1.0
+dog			ru-dog			\e08e	&#xe08e		font awesome	v1.0
+fish			ru-fish			\e08f	&#xe08f		font awesome	v1.0
+paw			ru-paw			\e090	&#xe090		font awesome	v1.0
+share			ru-share		\e091	&#xe091		clarity		v1.0
+airbnb			ru-airbnb		\e092	&#xe092		font awesome	v1.0
+codepen			ru-codepen		\e093	&#xe093		font awesome	v1.0
+deviantart		ru-deviantart		\e094	&#xe094		font awesome	v1.0
+dribble			ru-dribble		\e095	&#xe095		elegant		v1.0
+etsy			ru-etsy			\e096	&#xe096		font awesome	v1.0
+facebook		ru-facebook		\e097	&#xe097		font awesome	v1.0
+flickr			ru-flickr		\e098	&#xe098		font awesome	v1.0
+github			ru-github		\e099	&#xe099		font awesome	v1.0
+goodreads		ru-goodreads		\e09a	&#xe09a		font awesome	v1.0
+instagram		ru-instagram		\e09b	&#xe09b		font awesome	v1.0
+linkedin		ru-linkedin		\e09c	&#xe09c		elegant		v1.0
+medium			ru-medium		\e09d	&#xe09d		font awesome	v1.0
+meetup			ru-meetup		\e09e	&#xe09e		font awesome	v1.0
+messenger		ru-messenger		\e09f	&#xe09f		font awesome	v1.0
+pinterest		ru-pinterest		\e0a0	&#xe0a0		font awesome	v1.0
+ravelry			ru-ravelry		\e0a1	&#xe0a1		font awesome	v1.0
+reddit			ru-reddit		\e0a2	&#xe0a2		font awesome	v1.0
+slack			ru-slack		\e0a3	&#xe0a3		font awesome	v1.0
+snapchat		ru-snapchat		\e0a4	&#xe0a4		font awesome	v1.0
+soundcloud		ru-soundcloud		\e0a5	&#xe0a5		font awesome	v1.0
+spotify			ru-spotify		\e0a6	&#xe0a6		font awesome	v1.0
+stack-overflow		ru-stack-overflow	\e0a7	&#xe0a7		font awesome	v1.0
+tripadvisor		ru-tripadvisor		\e0a8	&#xe0a8		font awesome	v1.0
+tumblr			ru-tumblr		\e0a9	&#xe0a9		font awesome	v1.0
+twitter			ru-twitter		\e0aa	&#xe0aa		font awesome	v1.0
+vimeo			ru-vimeo		\e0ab	&#xe0ab		font awesome	v1.0
+whatsapp		ru-whatsapp		\e0ac	&#xe0ac		font awesome	v1.0
+wordpress		ru-wordpress		\e0ad	&#xe0ad		elegant		v1.0
+youtube			ru-youtube		\e0ae	&#xe0ae		font awesome	v1.0
+rss			ru-rss			\e0af	&#xe0af		font awesome	v1.0
+wifi			ru-wifi			\e0b0	&#xe0b0		font awesome	v1.0
+cube-outline		ru-cube-outline		\e0b1	&#xe0b1		clarity		v1.0
+cube-solid		ru-cube-solid		\e0b2	&#xe0b2		font awesome	v1.0
+cubes			ru-cubes		\e0b3	&#xe0b3		font awesome	v1.0
+flame			ru-flame		\e0b4	&#xe0b4		icomoon		v1.0
+leaf			ru-leaf			\e0b5	&#xe0b5		font awesome	v1.0
+monument		ru-monument		\e0b6	&#xe0b6		font awesome	v1.0
+global			ru-global		\e0b7	&#xe0b7		elegant		v1.0
+world			ru-world		\e0b8	&#xe0b8		font awesome	v1.0
+sun			ru-sun			\e0b9	&#xe0b9		font awesome	v1.0
+moon			ru-moon			\e0ba	&#xe0ba		font awesome	v1.0
+recycle			ru-recycle		\e0bb	&#xe0bb		font awesome	v1.0
+lightbulb		ru-lightbulb		\e0bc	&#xe0bc		elegant		v1.0
+calculator		ru-calculator		\e0bd	&#xe0bd		icomoon		v1.0
+tasks			ru-tasks		\e0be	&#xe0be		clarity		v1.0
+chart			ru-chart		\e0bf	&#xe0bf		font awesome	v1.0
+tree			ru-tree			\e0c0	&#xe0c0		icomoon		v1.0
+offices			ru-offices		\e0c1	&#xe0c1		icomoon		v1.0
+loud-hailer		ru-loud-hailer		\e0c2	&#xe0c2		icomoon		v1.0
+book			ru-book			\e0c3	&#xe0c3		clarity		v1.0
+camera			ru-camera		\e0c4	&#xe0c4		elegant		v1.0
+anchor			ru-anchor		\e0c5	&#xe0c5		font awesome	v1.0
+gift			ru-gift			\e0c6	&#xe0c6		elegant		v1.0
+game-controller		ru-game-controller	\e0c7	&#xe0c7		font awesome	v1.0
+bitten-cookie		ru-bitten-cookie	\e0c8	&#xe0c8		font awesome	v1.0
