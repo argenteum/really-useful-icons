@@ -1,3 +1,71 @@
+The icons included, as SVG and font files, in the 'Really Useful Icons' icon set are all copyrighted.
+
+You will find the copyright owner and licensing information for all the icons detailed below.
+
+Everything else is MIT Licensed, copyright (c) Kirsten Smith.
+
+Last updated: 26 August 2019
+
+==========================================================================================
+
+CLARITY      https://clarity.design/icons/get-started
+
+Copyright:   VMware
+License:     SIL OFL 1.1
+License URI: https://scripts.sil.org/OFL
+
+Icons since v1.0: book, cube-outline, devices, download, edit, link, phone, pop-out, share, tag, tags, tasks, times, upload, wrench
+
+==========================================================================================
+
+ELEGANT      https://www.elegantthemes.com/blog/resources/elegant-icon-font
+
+Copyright:   Elegant Themes
+License:     GPL 2.0
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+License:     MIT
+License URI: https://opensource.org/licenses/MIT
+
+
+Icons since v1.0: alert, bookmark, calendar, camera, cart, checkbox, checkbox-selected, checkbox-ticked, chevron-down-thin, chevron-left-thin, chevron-right-thin, chevron-up-thin, clock, cloud-download, cloud-upload, cogs, credit-card, delete, dribble, envelope, film, folder, gift, global, help, home, image, info, lightbulb, linkedin, map, minus, minus-circle, music, padlock-closed, padlock-open, page, pages, pin, placemarker, plus, plus-circle, radio, radio-selected, reply, search, thumbs-down, thumbs-up, tick, wallet, warning, wordpress
+
+==========================================================================================
+
+FONT AWESOME https://github.com/FortAwesome/Font-Awesome | https://fontawesome.com/v4.7.0/
+
+Copyright:   Dave Gandy & Font Awesome
+License:     SIL OFL 1.1
+License URI: https://scripts.sil.org/OFL
+License:     CC BY 4.0
+License URI: https://creativecommons.org/licenses/by/4.0/
+
+Icons since v1.0: airbnb, alarm, anchor, asterisk, audio, baby, ball, barcode, bath, beach-umbrella, bed, bicycle, birthday-cake, bitten-cookie, blind, bus, car, cat, chair, chart, chat, chevron-down, chevron-left, chevron-right, chevron-up, child, codepen, coffee-cup, comment, cube-solid, cubes, deaf, deviantart, disabled, dog, etsy, facebook, file, file-audio, file-code, file-excel, file-image, file-pdf, file-powerpoint, file-text, file-video, file-word, file-zip, fish, flickr, game-controller, github, goodreads, hamburger, happy-face, heart, heart-outline, hiking, html5, instagram, knife-fork, leaf, life-buoy, login, logout, low-vision, luggage, medium, meetup, messenger, monument, moon, neutral-face, parking, paw, paypal, pinterest, plane, pool, prohibited, ravelry, recycle, reddit, rss, running, sad-face, send, shopping-bag, slack, snapchat, soundcloud, spectacles, spotify, stack-overflow, star, star-outline, sun, swimming, terminal, toggle, toggle-filled, tripadvisor, tumblr, twitter, user, user-group, vimeo, water, whatsapp, wifi, wine-glass, wine-toast, world, youtube
+
+==========================================================================================
+
+ICOMOON      https://icomoon.io/#preview-free
+
+Copyright:   IcoMoon
+License:     CC BY 4.0
+License URI: https://creativecommons.org/licenses/by/4.0/
+
+
+Icons since v1.0: calculator, eye-hidden, eye-visible, flame, headphones, loud-hailer, offices, qr-code, quotes-left, quotes-right, tree
+
+==========================================================================================
+
+IONICONS     https://ionicons.com
+
+Copyright:   Ionic (http://ionic.io/)
+License:     MIT
+License URI: https://opensource.org/licenses/MIT
+
+
+Icons since v1.0: apps, arrow-down, arrow-left, arrow-right, arrow-up, attach, bug, hand, watch
+
+
+==========================================================================================
+
 MIT License
 
 Copyright (c) 2019 Kirsten Smith
@@ -19,3 +87,27 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+==========================================================================================
+
+The MIT License (MIT)
+
+Copyright (c) 2015-present Ionic (http://ionic.io/)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
