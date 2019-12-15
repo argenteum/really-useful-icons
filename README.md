@@ -16,7 +16,7 @@ The icon fonts were created using [Fontastic](http://fontastic.me) and the SVG f
 ### How to include Really Useful Icons in your custom WordPress theme
 1. [Download the .zip file](https://argenteum.github.io/really-useful-icons/really-useful-v1.zip)
 2. Unzip to your theme's folder
-3. [Enqueue the stylesheet](https://code.tutsplus.com/tutorials/loading-css-into-wordpress-the-right-way--cms-20402) in your theme's `functions.php` file with `wp_enqueue_style( 'really-useful-icons', get_template_directory_uri() . '/really-useful-icons/ru-style.css' );` or `wp_enqueue_style( 'really-useful-icons', get_stylesheet_directory() . '/really-useful-icons/ru-style.css' );` if you are using it in a child theme.
+3. [Enqueue the stylesheet](https://code.tutsplus.com/tutorials/loading-css-into-wordpress-the-right-way--cms-20402) in your theme's `functions.php` file with `wp_enqueue_style( 'really-useful-icons', get_template_directory_uri() . '/really-useful-icons/ru-style.css' );` or `wp_enqueue_style( 'really-useful-icons', get_stylesheet_directory_uri() . '/really-useful-icons/ru-style.css' );` if you are using it in a child theme.
 
 ## Using the Icons
 
